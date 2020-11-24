@@ -19,4 +19,6 @@ def searchRetweet():
             print(e.reason)
             time.sleep(10)
 
-searchRetweet()
+while True():
+    searchRetweet()
+    time.sleep(30)

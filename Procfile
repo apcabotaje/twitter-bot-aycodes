@@ -1,1 +1,1 @@
-worker: python searchRetweet.py
+worker: python ./bots/searchRetweet.py
